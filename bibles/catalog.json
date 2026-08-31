@@ -11,6 +11,17 @@
       "bytes": 4737551,
       "sha256": "0804dfdd4c4db5a5b6416fc2e370abfb57dbbb4212dce75d1e5fb96e421b6ba8",
       "path": "vdcc.v1.json"
+    },
+    {
+      "id": "bsb",
+      "short": "BSB",
+      "name": "Berean Standard Bible",
+      "lang": "en",
+      "notice": "Berean Standard Bible — dedicated to the public domain, 30 April 2023.",
+      "revision": 1,
+      "bytes": 4343934,
+      "sha256": "00348a9a8d6384fac9216ea8ef61c23770d11aa130c6e31d1a1918b5d818e60d",
+      "path": "bsb.v1.json"
     }
   ]
 }
