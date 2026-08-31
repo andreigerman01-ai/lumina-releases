@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "translations": [
+    {
+      "id": "vdcc",
+      "short": "VDCC",
+      "name": "Biblia Cornilescu",
+      "lang": "ro",
+      "notice": "Versiunea Dumitru Cornilescu (corectată) — domeniu public.",
+      "revision": 1,
+      "bytes": 4737551,
+      "sha256": "0804dfdd4c4db5a5b6416fc2e370abfb57dbbb4212dce75d1e5fb96e421b6ba8",
+      "path": "vdcc.v1.json"
+    }
+  ]
+}
